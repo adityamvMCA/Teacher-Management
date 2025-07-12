@@ -11,7 +11,7 @@ export default function TeacherCard() {
       {/* Info */}
       <div className="flex-1">
         <div className="flex items-center justify-between">
-          <h2 className="text-2xl font-bold text-gray-800">Bhimappa L</h2>
+          <h2 className="text-2xl font-bold text-gray-800">Raj L</h2>
           <span className="text-sm px-3 py-1 bg-green-100 text-green-700 rounded-full font-medium">
             Active
           </span>

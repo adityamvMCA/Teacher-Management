@@ -9,19 +9,19 @@ export default function ContactCard() {
 
       <div className="flex items-center gap-3 text-gray-700">
         <Mail className="w-5 h-5 text-blue-500" />
-        <span>alyniaallan@example.com</span>
+        <span>raj@example.com</span>
       </div>
 
       <div className="flex items-center gap-3 text-gray-700">
         <Phone className="w-5 h-5 text-green-500" />
-        <span>(416) 649-9057</span>
+        <span>9141078787</span>
       </div>
 
       <div className="flex items-start gap-3 text-gray-700">
         <MapPin className="w-5 h-5 text-rose-500 mt-1" />
         <span>
-          56 Eldorado Street, <br />
-          North York, Ontario, Canada
+          Bengaluru <br />
+          Karnataka
         </span>
       </div>
     </div>

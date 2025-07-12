@@ -8,8 +8,8 @@ A modern, responsive, and accessible **Teacher Management Interface** designed u
 
 ## 🚀 Live Demo
 
-🔗 [View on Vercel](https://your-project-name.vercel.app)  
-_(replace this with your actual deployed link)_
+🔗 [View on Vercel](https://teacher-management-8e9e.vercel.app/)  
+
 
 ---
 
@@ -27,7 +27,7 @@ _(replace this with your actual deployed link)_
 ## 🛠️ Setup & Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/adityamvMCA/Teacher-Management.git
 cd your-repo
 npm install
 npm run dev
